@@ -1,0 +1,7 @@
+0 Tulsi
+1 curry
+2 Mint
+3 Lemon
+4 Basale
+5 Cactus
+6 Alovera
